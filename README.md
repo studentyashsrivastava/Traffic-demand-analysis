@@ -1,4 +1,4 @@
-# Traffic Demand Prediction (Flipkart GRID 2.0)
+# Traffic Demand Prediction (Flipkart GRIDLOCK 2.0)
 
 > **Achieved 91.09% prediction accuracy** using LightGBM, Spatial Clustering, Target Encoding, and Advanced Feature Engineering.
 
