@@ -1,6 +1,6 @@
-# Traffic Demand Prediction
+# Traffic Demand Prediction (Flipkart GRID 2.0)
 
-**Using LightGBM, Spatial Clustering, and Smart Feature Engineering**
+> **Achieved 91.09% prediction accuracy** using LightGBM, Spatial Clustering, Target Encoding, and Advanced Feature Engineering.
 
 This project predicts road traffic demand using geospatial data, weather signals, road information, and time-based patterns.
 
